@@ -1,0 +1,54 @@
+
+*{
+    margin:0;
+
+}
+
+.main-header{
+    background-color: red;
+    padding: 8px 16px;
+}
+
+
+.nav1{
+    display: inline-block;
+    text-align: right;
+   width: calc(100% - 99px);
+ 
+    
+}
+
+.main-nav__items{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+
+}
+
+.main-nav__item{
+    display: inline-block;
+    margin: 0 8px;
+}
+
+
+.logo{
+    color: azure;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 21px;
+
+}
+
+.main-nav__item a{
+  text-decoration: none;
+  color: aliceblue;
+
+
+
+}
+
+
+
+
+

@@ -1,0 +1,16 @@
+.list{
+    text-align: right;
+    list-style: none;
+    width: calc(96%);
+  
+    
+}
+.list1{
+    display: inline-block;
+    
+}
+
+.navlist{
+    background-color: red;
+    
+}

@@ -1,0 +1,67 @@
+
+
+
+.container1:hover{
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+    transition: 0.1s;
+    
+   
+    
+}
+
+.all{
+    background-image: url(fenerstat.jpg);
+    background-position: initial;
+    background-repeat: no-repeat;
+    
+    
+}
+
+
+.kolon{
+    background-color: #120a8f ;
+    color:yellow;
+}
+
+
+
+.bslk2{
+    width: 50px;
+    height: 50px;   
+}
+
+.bslk2:hover{
+    -ms-transform:scale(1.0);
+    -webkit-trasnform:scale(1.0);
+    transform:scale(1.1);
+    transition:0.2s;
+}.krt{
+    background-image: url(fbarkaplan.jpg);
+    padding: 5%;
+}
+
+
+.liste{
+    margin-left:35px;
+    padding-left: 35px;
+}
+
+.liste a:hover{
+    color:yellow;
+}
+
+
+.logos{
+    
+    margin-left: 250px;
+
+}
+
+.row p:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform:scale(1.1);
+    transform: scale(1.1);
+    transition: 0.2s;
+}

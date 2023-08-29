@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+}
+
+
+.logo{
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 21px;
+    margin: 2px;
+    padding: 2px;
+    
+   
+     
+ }
+
+.header1{
+    background-color: #FC997C;
+}
+
+.all{
+    display: inline-block;
+    text-align: right;
+    width: calc(100% - 110px)
+   
+    
+
+}
+.liste{
+    list-style: none;
+    padding: 5px;
+    margin: 5px; 
+    word-spacing: 25px;
+
+}
+
+.link{
+    display: inline-block;
+    
+}
+
+.link a{
+    text-decoration: none;
+    color:whitesmoke;
+    font-weight: bold;
+    font-size: 21px;
+
+}
+
+.back{
+    background-image: url(resim.jpg);
+    background-position: center;
+    height: 500px;
+    width: 100%;
+  
+}
+
+.text {
+    font-weight: bold;
+    font-size: 21px;
+    color:aliceblue;
+    padding: 25px 9px;
+   
+   
+}
+
+.header2{
+    padding: 25px;
+    text-align: center;
+}
+.text1{
+    text-align: center;
+}
+
+
+
+
+.register{
+    padding: 60px;
+    width: 30%;
+    display: inline-block;
+   
+}
+.header3{
+    padding: 25px;
+    
+}
+
+
+
+
+
+.chooseaplan{
+  
+   text-align: center;
+   display: inline-block;
+   width: 30%;
+ 
+
+ 
+
+ 
+}
+.header4{
+    padding: 25px;
+}
+
+
+
+
+
+
+
+.enjoymovies{
+    text-align: right;
+    display: inline-block;
+    width: 30%;
+}
+
+.header5{
+    padding: 25px;
+}
+
+
+
+.link--login{
+ background-color: blue;
+ border: 2px solid white;
+ padding: 5px;
+ border-radius: 15px;
+}
+
+.link a:hover{
+    color: black;
+}
+
+.link a:active{
+    color:white;
+}
+
+
+.link--login a::before{
+    content: '';
+}
+

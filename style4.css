@@ -1,0 +1,159 @@
+.allheader{
+    background-color: orangered;
+}
+
+
+.all{
+    display: inline-block;
+    text-align: right;
+    width: calc(100% - 120px);
+    word-spacing: 10px;
+   
+
+    
+
+}
+.link{
+    display: inline-block;
+    font-weight: bold;
+   
+   
+    
+}
+
+
+.link a{
+    color: wheat;
+    text-decoration: none;
+    font-size: 24px;
+    padding: 10px;
+    
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 21px;
+    text-decoration: none;
+    color: wheat;
+    padding-left: 15px;
+    
+}
+
+.liste{
+    padding: 10px;
+}
+
+
+
+
+
+
+.text{
+    padding: 15px;
+    color: aliceblue;
+}
+
+.showcase{
+    background-image: url(resim.jpg);
+    background-position: center;
+    height: 500px;
+    width: 100%;
+
+}
+
+
+
+
+
+
+
+
+.baslık{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.baslık p{
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+.Register{
+    width: 30%;
+    padding: 25px;
+    text-align: center;
+    display: inline-block;
+}
+
+.reg{
+    padding: 5px;
+    margin: 5px;
+  
+}
+
+
+
+
+
+
+.chooseplan{
+    display: inline;
+    width: 30%;
+    text-align: center;
+    padding: 25px;
+    display: inline-block;
+    
+}
+
+.chs{
+    padding: 5px;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+.enjoy{
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+}
+
+
+.enjoy1{
+    margin: 29px;
+    padding: 5px;
+}
+    
+
+
+
+
+.picture{
+    width: 30%;
+    display: inline-block;
+    background: url(resim.jpg);
+    background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

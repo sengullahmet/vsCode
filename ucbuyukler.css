@@ -1,0 +1,87 @@
+
+.all{
+    background-image: url(yesilsaha.jpg);
+}
+
+
+
+
+
+.gs:hover{
+    -ms-transform: scale(0.5);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.1);
+}
+
+
+.gs1{
+    width: 125px;
+    
+}
+
+.bjk1{
+    width: 150px;
+
+}
+.fb1{
+   
+    width: 150px;
+
+}
+
+
+
+.bjk{
+    width: 350px;
+    height: 250px;
+}
+
+
+.bjk:hover{-ms-transform: scale(0.5);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+    
+
+
+
+
+}.fb:hover{
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+
+
+
+.gs-link:hover{
+    color:yellow;
+    
+}
+
+
+.bjk-link:hover{
+    color:white;
+}
+
+
+.fb-link{
+    background: #000080;
+}
+
+.fb-link1:hover{
+    color:yellow;
+}
+
+
+.arama{
+    margin-left:500px ;
+}
+
+.navbar{
+    opacity: 1.2;
+    background: #97cba9;
+}
+
+
+
